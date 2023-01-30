@@ -1,0 +1,15 @@
+{
+  "name": "firebase-test",
+  "version": "1.0.0",
+  "description": "firebase repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SMH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.16.0"
+  }
+}
